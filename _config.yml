@@ -13,7 +13,7 @@ url: "https://a1bhinav.github.io/"
 # NB! Without this *nothing* will work, because it's used in every path :)
 
 baseurl: ""
-cv: "YugeshAjitKothari.pdf"
+cv: "AbhinavSharma.pdf"
 
 # Google tracking id
 
@@ -32,8 +32,8 @@ force-https: True
 lang: "en"
 author: "Abhinav Sharma"
 title: "{ Abhinav Sharma }"
-description: "By the perplexed, for the perplexed - Yugesh Kothari"
-keywords: "yugesh, kothari"
+description: "By the perplexed, for the perplexed - Abhinav Sharma"
+keywords: "abhinav, sharma"
 favicon: "/img/geek.png"
 
 ################
@@ -42,7 +42,7 @@ favicon: "/img/geek.png"
 
 black-favicon: "/img/geek.png"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/intro-bg.JPG"
 
 ##############################
 # Dynamic Text on the Header #
@@ -133,30 +133,24 @@ syntax-highlight: True
 ############
 
 events:
-  - image : "/img/timeline/epfl.png"
-    date :  "Sept 2021 - Present"
-    description : "Doctoral Research Assistant \n\n Dependable Systems Lab"
-  - image : "/img/timeline/mpi.png"
-    date : "Jan 2020 - Jun 2021"
-    description : "Research Assistant \n\n Practical Formal Methods"
-  - image: "/img/timeline/epfl.png"
-    date : "Jun 2020 - Sept 2020"
-    description : "Research Intern \n\n Network Architecture Lab"
+  - image : "img\timeline\amazon.png"
+    date :  "Jan 2023 - Jun 2023"
+    description : "Upcoming SDE Intern \n\n Amazon"
+  - image : "img\timeline\tudelft.png"
+    date : "June 2022 - Present"
+    description : "Research Intern \n\n TU Delft"
+  - image: "img\timeline\aisys.png"
+    date : "Jun 2021 - Jan 2022"
+    description : "Research Specialist \n\n AISys Lab"
+  - image: "img\timeline\sharc.png"
+    date : "Jun 2021 - Jan 2022"
+    description : "Research Intern \n\n Sharc Lab"
   - image : "/img/timeline/mastercard.jpg"
-    date : "May 2020 - Jun 2020"
-    description : "DevOps Intern \n\n Data and Services Team"
-  - image: "/img/timeline/pclub.png"
-    date: "March 2019 - March 2020"
-    description: "Programming Club Coordinator"
-  - image: "/img/timeline/purdue.png"
-    date: "May 2019 - July 2019"
-    description: "Research Intern \n\n Purdue Formal Methods"
-  - image: "/img/timeline/soc.png"
-    date: "May 2019 - July 2019"
-    description: "Program Coordinator \n Summer of Code, IIT Kanpur"
-  - image: "/img/timeline/nuta_logo.png"
-    date: "May 2018 - July 2018"
-    description: "Member of Technical Staff \n Nutanix"
+    date : "Aug 2020 - Mar 2021"
+    description : "Project Manager \n\n Shikedum Learning"
+  - image: "img\timeline\progate.png"
+    date: "June 2020 - Aug 2020"
+    description: "Community Developement Intern \n Progate"
 
 # First image of the Timeline
 
