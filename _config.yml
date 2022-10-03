@@ -42,7 +42,7 @@ favicon: "/img/geek.png"
 
 black-favicon: "/img/geek.png"
 
-background-img: "../img/intro-bg.JPG"
+background-img: "../img/intro-bg.jpeg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -60,7 +60,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Just kidding, go document your code."
   - text: "Where’s your will to be weird?"
 
-me-img: "/img/author.jpg"
+me-img: "/img/author.jpeg"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
@@ -133,34 +133,34 @@ syntax-highlight: True
 ############
 
 events:
-  - image : "img\timeline\amazon.png"
+  - image : "/img/timeline/amazon.png"
     date :  "Jan 2023 - Jun 2023"
     description : "Upcoming SDE Intern \n\n Amazon"
-  - image : "img\timeline\tudelft.png"
+  - image : "/img/timeline/tudelft.png"
     date : "June 2022 - Present"
     description : "Research Intern \n\n TU Delft"
-  - image: "img\timeline\aisys.png"
+  - image: "/img/timeline/aisys.png"
     date : "Jun 2021 - Jan 2022"
     description : "Research Specialist \n\n AISys Lab"
-  - image: "img\timeline\sharc.png"
+  - image: "/img/timeline/sharc.png"
     date : "Jun 2021 - Jan 2022"
     description : "Research Intern \n\n Sharc Lab"
   - image : "/img/timeline/mastercard.jpg"
     date : "Aug 2020 - Mar 2021"
     description : "Project Manager \n\n Shikedum Learning"
-  - image: "img\timeline\progate.png"
+  - image: "/img/timeline/progate.png"
     date: "June 2020 - Aug 2020"
     description: "Community Developement Intern \n Progate"
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/iitk.png"
+timeline-img: "/img/timeline/iiitg.png" 
 
 ###########
 # Contact #
 ###########
 
-email: "yugesh.kothari@gmail.com"
+email: "abhinav.sharma@iiitg.ac.in"
 phone: "Ph: Available on request"
 
 ################
@@ -171,8 +171,8 @@ phone: "Ph: Available on request"
 # Works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Yugesh is a first year PhD student at EPFL. His research interests include software systems, program verification and programming languages."
-author_blurb_image: "/img/author.jpg"
+author_blurb: "Abhinav is a senior year student at IIIT G. His research interests include autonomous systems, CV and ML."
+author_blurb_image: "/img/author.jpeg"
 
 ##################
 # Social Buttons #
@@ -180,11 +180,11 @@ author_blurb_image: "/img/author.jpg"
 
 social:
   - title: "facebook"
-    url: "https://www.facebook.com/yugesh.kothari"
+    url: "https://www.facebook.com/profile.php?id=100037989287257"
   - title: "twitter"
-    url: "https://twitter.com/YugeshKothari"
+    url: "https://twitter.com/a1bhinav"
   - title: "github"
-    url: "https://github.com/yugeshk"
+    url: "https://github.com/a1bhinav"
 
 ############
 # 404 page #
