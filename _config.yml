@@ -56,7 +56,7 @@ type-speed: 8
 start-delay: 200
 delete-delay: 3000
 lines: # You can add HTML Tags in the Text
-  - text: "Life is too short to write documentation."
+  - text: <p style="font-family:courier;">"Life is too short to write documentation."</p>
   - text: "Just kidding, go document your code."
   - text: "Where’s your will to be weird?"
 
