@@ -140,7 +140,7 @@ events:
     date : "June 2022 - Present"
     description : "Research Intern \n\n TU Delft"
   - image: "/img/timeline/aisys.png"
-    date : "Jun 2021 - Jan 2022"
+    date : "Jun 2022 - Present"
     description : "Research Specialist \n\n AISys Lab"
   - image: "/img/timeline/sharc.png"
     date : "Jun 2021 - Jan 2022"
@@ -148,7 +148,7 @@ events:
   - image : "/img/timeline/shike.webp"
     date : "Aug 2020 - Mar 2021"
     description : "Project Manager \n\n Shikedum Learning"
-  - image: "/img/timeline/progate.png"
+  - image: "/img/timeline/Progateg.png"
     date: "June 2020 - Aug 2020"
     description: "Community Developement Intern \n Progate"
 
